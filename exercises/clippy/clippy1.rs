@@ -8,6 +8,8 @@
 
 // I AM NOT DONE
 
+//TEST starting excercise!
+
 use std::f32;
 
 fn main() {
